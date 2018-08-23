@@ -1,23 +1,17 @@
-<p align="center">
-
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # ANTTON BOT
-#### [v.0.01]
 
 <!-- DESCRIPTION -->
 #### *ANTTON BOT is the ultimate Discord BOT, this BOT is fully modular, you can enable or disable commands to your liking.*
 
 
-<!-- ABOUT APP -->
-<p align="center">
-  
+<!-- ABOUT APP -->  
 **ANTTON BOT** is a fully modular BOT meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.  
 This is also a *self-hosted BOT* meaning you will need to host and maintain your own instance. Installation is very easy , and you do NOT need to know anything about coding! Aside from installation and updating, every part of the BOT can be controlled from within Discord.
 
-</p>
 
 The modules that are enabled by default are:
 * Moderation Features ( kick/ban/softban/hackban, mod-log, filter, chat cleanup )
