@@ -2,7 +2,7 @@
 <a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns"> </a>
 
 <!-- TITLE -->
-# ANTTON BOT · Ultimate Discord BOT
+# ANTTON BOT · Ultimate Discord BOT [v.0.0.1]
 
 <!-- DESCRIPTION -->
 #### *ANTTON BOT is the ultimate Discord BOT, this BOT is fully modular, you can enable or disable commands to your liking.*
