@@ -38,6 +38,12 @@ This code is written in Spanish and automatically translated by google translate
 You can find more about me on my website → <a href="https://anns.es">https://anns.es</a>
 
 
+## Version
+
+ANTTON BOT is in BETA version so it may contain failures.
+## V.0.1.0
+
+
 ## License
 
 Released under the [GNU GPL v3](LICENSE).
