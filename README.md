@@ -2,10 +2,13 @@
 <a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns"> </a>
 
 <!-- TITLE -->
-    # ANTTON BOT · Ultimate Discord BOT
-<!-- DESCRIPTION -->
-    #### *ANTTON BOT is the ultimate Discord BOT, this BOT is fully modular, you can enable or disable commands to your liking.*
+# ANTTON BOT · Ultimate Discord BOT
 
+<!-- DESCRIPTION -->
+#### *ANTTON BOT is the ultimate Discord BOT, this BOT is fully modular, you can enable or disable commands to your liking.*
+
+
+<!-- ABOUT APP -->
 **ANTTON BOT** is a fully modular BOT meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.  
 This is also a *self-hosted BOT* meaning you will need to host and maintain your own instance. Installation is very easy , and you do NOT need to know anything about coding! Aside from installation and updating, every part of the BOT can be controlled from within Discord.
 
@@ -26,6 +29,7 @@ Other modules that you can add with a couple of clicks are:
 * Custom Commands
 
 
+<!-- INSTALLATION -->
 ## Installation
 
 The installation is VERY simple and you can install the BOT without needing to know anything about programming. All major platforms are supported:
@@ -34,6 +38,7 @@ The installation is VERY simple and you can install the BOT without needing to k
 * [MacOS](https://twentysix26.github.io/Red-Docs/red_install_mac/)
 
 
+<!-- OTHER INFO -->
 ## Other Info
 
 This code is written in Spanish and automatically translated by google translate so that the translations of the messages may contain errors, if you see any wrongdoing, do not hesitate to contact us and we will fix it as soon as possible.
@@ -41,9 +46,11 @@ This code is written in Spanish and automatically translated by google translate
 You can find more about me on my website → <a href="https://anns.es">https://anns.es</a>
 
 
+<!-- LICENCE -->
 ## License
 
 Released under the [GNU GPL v3](LICENSE).
+
 
 
 <!-- FOOTER -->
