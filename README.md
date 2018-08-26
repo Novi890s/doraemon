@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git/git-head.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # ANTTON BOT
@@ -55,6 +55,6 @@ Released under the [GNU GPL v3](LICENSE).
 
 
 <!-- FOOTER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/git-footer.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-footer.png" alt="anns"> </a>
 
 </p>
