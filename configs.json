@@ -2,18 +2,23 @@
     "bot_name" : "ANTTON BOT",
     "name" : "ANTTON",
     "prefix" : "$",
-    "terminal" : "≫",
-    "bot_emoji" : "",
+    "terminal" : "»",
+    "bot_emoji" : "<:antton:482326500167909376>",
     "bot_logo" : "http://img.anns.es/github/antton_bot/bot-whrite_circle.png",
     "title_underline" : "· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ",
+
     "color_command" : "#FF00FF",
     "color_alert" : "#FFFF00",
     "color_error" : "#FF0000",
-    "channel_general" : "channel_id",
-    "channel_reports" : "channel_id",
-    "rol_owner" : "@rol",
-    "rol_admin" : "@rol",
-    "rol_mod" : "@rol",
 
-    "token" : "token"
+    "channel_general_id" : "CHANNEL.ID",
+    "channel_logs_id" : "CHANNEL.ID",
+
+    "role_owner_id" : "ROLE.ID",
+    "role_admin_id" : "ROLE.ID",
+    "role_mod_id" : "ROLE.ID",
+    "role_staff_id" : "ROLE.ID",
+    "role_muted_id" : "ROLE.ID",
+
+    "token" : "BOT.TOKEN"
 }

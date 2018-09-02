@@ -1,6 +1,6 @@
 {
   "name": "antton",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Ultimate Discord Manager BOT. This bot includes all the functions of the main bots (autorols, rank, music, welcome message and more).",
   "main": "antton.js",
   "scripts": {
@@ -9,8 +9,11 @@
   "author": "andresbarrones",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.1",
     "date-and-time": "^0.6.2",
     "dateformat": "^3.0.3",
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "pm2": "^3.0.4"
   }
 }

@@ -1,3 +1,4 @@
+
 # Created by https://www.gitignore.io/api/macos,linux,windows,visualstudiocode
 
 ### Linux ###
@@ -76,5 +77,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
->>>>>>> 8222f96501f89faa0a02c84bdaf387be1ba006f8
 # End of https://www.gitignore.io/api/macos,linux,windows,visualstudiocode
