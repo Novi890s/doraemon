@@ -1,4 +1,4 @@
-<a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
 
 # ANTTON BOT · Ultimate Discord BOT
 #### *ANTTON BOT is the ultimate Discord BOT, this BOT is fully modular, you can enable or disable commands to your liking.*
@@ -44,4 +44,4 @@ Released under the [GNU GPL v3](LICENSE).
 
 
 
-<a href="https://anns.es"> <img src="http://git.anns.es/img/git-footer.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-footer.png" alt="anns"> </a>
