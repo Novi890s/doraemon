@@ -1,7 +1,7 @@
 {
-    "bot_name" : "ANTTON BOT",
-    "name" : "ANTTON",
-    "prefix" : "$",
+    "bot_name" : "DORAEMON BOT",
+    "name" : "DORAEMON",
+    "prefix" : "d!",
     "terminal" : "»",
     "bot_emoji" : "<:antton:482326500167909376>",
     "bot_logo" : "http://img.anns.es/github/antton_bot/bot-whrite_circle.png",
